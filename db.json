@@ -1,0 +1,11 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Pasta Carbonara",
+        "ingredients": "Pasta, Eggs, Cheese, Bacon",
+        "category": "Italian"
+      }
+    ]
+  }
+  
